@@ -98,4 +98,4 @@ umask 022  # Default: 755 for directories, 644 for files
 ```
 
 ## Conclusion
-Understanding file permissions is essential for system security and proper file management. Using `chmod`, `chown`, and `chgrp`, you can control access to files and directories efficiently.
+Understanding file permissions is essential for system security and proper file management. Using 'chmod', 'chown', and 'chgrp', you can control access to files and directories efficiently.
