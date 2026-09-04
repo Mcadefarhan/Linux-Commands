@@ -185,3 +185,5 @@ sudo mount /dev/sdb1 /data
 | Partition a new disk          | `fdisk`                     |
 | Mount an existing partition   | `mount`                     |
 | Full setup (new disk)         | `fdisk + mkfs + mount`      |
+
+THANK YOU
