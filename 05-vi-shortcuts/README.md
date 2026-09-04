@@ -71,3 +71,5 @@
 - `Ctrl + w + w` – Switch between split screens  
 
 ---
+
+THANK YOU
